@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammad Fahmi Irfan</h1>
-<h3 align="center">A computer science student, interested in Competitive Programming, Game Programming, Game Designing, and Machine Learning</h3>
+<h3 align="center">A computer science student, interested in Competitive Programming, Game Programming, Game Designing</h3>
 
 - 🌱 I’m currently learning **Unity and Game Design**
 
